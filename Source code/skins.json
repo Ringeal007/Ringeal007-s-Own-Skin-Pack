@@ -1,0 +1,42 @@
+{
+	"serialize_name": "ringeal007.own",
+	"localization_name": "ringeal007.own",
+	"skins": [
+		{
+			"localization_name": "Tang_suit_girl",
+			"geometry": "geometry.humanoid.customSlim",
+			"texture": "Tang_suit_girl.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "KaMuaMua",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "KaMuaMua.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "Dream",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "Dream.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "Notch",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "Notch.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "XshyO1",
+			"geometry": "geometry.humanoid.customSlim",
+			"texture": "XshyO1.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "Empty",
+			"geometry": "geometry.humanoid.customSlim",
+			"texture": "Empty.png",
+			"type": "free"
+		}
+	]
+}
