@@ -3,13 +3,13 @@
 	"header": {
 		"name": "Ringeal007's Own Skin Pack",
 		"uuid": "c97dac26-5118-492a-bf45-07118b9167ea",
-		"version": [0, 1, 0]
+		"version": [0, 1, 1]
 	},
 	"modules": [
 		{
 			"type": "skin_pack",
 			"uuid": "b7783317-16f6-4012-afcf-4e5639e8ffd4",
-			"version": [0, 1, 0]
+			"version": [0, 1, 1]
 		}
 	],
 	"metadata": {

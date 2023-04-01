@@ -16,7 +16,7 @@
 		},
 		{
 			"localization_name": "Dream",
-			"geometry": "geometry.humanoid.custom",
+			"geometry": "geometry.humanoid.customSlim",
 			"texture": "Dream.png",
 			"type": "free"
 		},
